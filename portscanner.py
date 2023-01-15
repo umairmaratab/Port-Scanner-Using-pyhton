@@ -1,6 +1,6 @@
 import socket,sys,threading,time
 from tkinter import *
-
+# vars
 # ==== Scan Vars ====
 ip_s = 1
 ip_f = 1024
